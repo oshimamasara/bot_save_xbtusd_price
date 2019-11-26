@@ -1,4 +1,4 @@
-<img width="100%" src="program_img.jpg>
+<img width="100%" src="program_img.jpg">
 
 ## How to Run
 
