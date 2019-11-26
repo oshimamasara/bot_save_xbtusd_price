@@ -6,6 +6,7 @@
 + Start New Instance
 + Connect SSH
 + set file
++ edit start hour and minute
 + check Python and pip
 + Run ( nohup python3 -u XBTUSD_save_CSV_bot.py > ./csv_log.log  2>&1 & )
 
