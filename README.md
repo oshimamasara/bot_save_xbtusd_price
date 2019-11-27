@@ -15,3 +15,5 @@
 + ps ef
 + check PID No.
 + kill 〇〇 PID
+
+> 記録した CSVファイル を取得する場合は、最初に フォーク して git clone すると扱いやすいと思います。
